@@ -1,0 +1,3 @@
+0 Manual Call Point
+1 Fire detector
+2 Fypad
